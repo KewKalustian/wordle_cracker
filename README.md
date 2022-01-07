@@ -1,6 +1,6 @@
 # Wordle Cracker
 
-When you are stuck in solving wordle games, and you are nerdy, the result looks like this.
+If you get stuck solving Wordle games and are a bit of a nerd, it could end up like this.
 
 ## How to modify/use that script
 
