@@ -18,13 +18,12 @@ Maybe, I will build a shiny app on this—we'll see.
 
 Happy wordling!
 
-That pattern that drove me crazy and why I  had to use gentle brute force approaches: 
+That pattern that drove me crazy and why I had to use gentle brute force approaches: 
 
-Wordle 201 6/6
+Wordle 201 5/6
 
-🟨⬛⬛⬛⬛
-⬛🟩⬛⬛⬛
-⬛🟩🟩⬛⬛
-⬛🟩🟩⬛⬛
-⬛🟩🟩🟩🟩
-🟩🟩🟩🟩🟩
+  🟨⬛⬛⬛⬛\
+  ⬛🟩⬛⬛⬛\
+  ⬛🟩🟩⬛⬛\
+  ⬛🟩🟩⬛⬛\
+  🟩🟩🟩🟩🟩
