@@ -15,7 +15,7 @@ possible <- anti_join(tibble(letters), stop_ch, by = "letters")
 # resampling
 set.seed(42, sample.kind = "Rounding")
 
-resamp_word_options <-  replicate(100000, {
+resamp_word_options <-  replicate(10e4, {
   
   word = sample(sprintf(
     # already solved "- a n - -"
