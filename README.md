@@ -26,4 +26,4 @@ Wordle 201 5/6
 
 Maybe, I'm going to build a shiny app on this—we'll see.
 
-Happy wordling!
+Happy "wordling"!
