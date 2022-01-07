@@ -1,7 +1,5 @@
 # Wordle Cracker
 
-## Cracking the viral wordle games but with a gentle brute-force style.
-
 When you are stuck in solving wordle games, and you are nerdy enough to help yourself through coding, 
 the result looks like this.
 
