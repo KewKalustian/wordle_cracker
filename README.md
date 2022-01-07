@@ -3,7 +3,7 @@
 When you are stuck in solving wordle games, and you are nerdy enough to help yourself through coding, 
 the result looks like this.
 
-## How to modify/use this template.
+## How to modify/use that script
 
  1. Guess 3 or 4 times. (If you guess less, you will have to add more placeholders and more sampling chunks).
  2. Enter all "grey" characters/letters in the `df` of `stop_ch`
