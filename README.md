@@ -13,7 +13,7 @@ the result looks like this.
 That's it. In the end, you will get a list of a few possible words (currently, including names and places).
 
 
-That pattern that drove me crazy and why I had to use gentle brute force approaches: 
+That pattern that drove me crazy and why I had to use gentle brute-force approaches: 
 
 Wordle 201 5/6
 
