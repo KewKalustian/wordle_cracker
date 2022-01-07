@@ -26,6 +26,6 @@ Wordle 201 5/6
   🟩🟩🟩🟩🟩
 
 
-Maybe, I will build a shiny app on this—we'll see.
+Maybe, I going to build a shiny app on this—we'll see.
 
 Happy wordling!
