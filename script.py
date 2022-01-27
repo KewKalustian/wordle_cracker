@@ -22,6 +22,6 @@ possible = (
               how = "outer", 
               indicator=True)
     .query("_merge != 'both'")
-    .drop(columns = " _merge")
+    .drop(columns = "_merge")
 )
 
