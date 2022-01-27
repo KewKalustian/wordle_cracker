@@ -16,13 +16,12 @@ stop_ch = pd.DataFrame({"letters":[
 abc = pd.DataFrame({'letters': list(str.ascii_lowercase)})
 
 # saving all remaining characters into an object
-
-possible =  (
+possible = (
     stop_ch.merge(abc, 
               on = "letters", 
               how = "outer", 
               indicator=True)
-    .query("_merge != "both" ")
-    .drop(columns="_merge")
+    .query("_merge != 'both'")
+    .drop(columns = " _merge")
 )
 
