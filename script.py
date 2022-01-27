@@ -19,9 +19,9 @@ abc = pd.DataFrame({'letters': list(str.ascii_lowercase)})
 
 possible =  (
     stop_ch.merge(abc, 
-              on='letters', 
-              how='outer', 
+              on = "letters", 
+              how = "outer", 
               indicator=True)
-    .query('_merge != "both"')
-    .drop(columns='_merge')
+    .query("_merge != "both" ")
+    .drop(columns="_merge")
 )
