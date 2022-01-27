@@ -13,7 +13,7 @@ stop_ch = pd.DataFrame({"letters":[
 "r"] 
  })
 
-abc = pd.DataFrame({'letters': list(str.ascii_lowercase)})
+abc = pd.DataFrame({"letters": list(str.ascii_lowercase)})
 
 # saving all remaining characters into an object
 possible = (
