@@ -27,4 +27,4 @@ Maybe, I'm going to build a shiny app on this—we'll see.
 
 Happy "wordling"!
 
-Update: Python script in the making
+Update: Python script in the making…
